@@ -1,5 +1,5 @@
 
-public class Nhanvien {
+public abstract class Nhanvien {
     private String ma;
     private String name;
     private double luongcb;
